@@ -1,0 +1,17 @@
+.mainDiv {
+  border: 0.1vw dashed #000000;
+  border-radius: 2%;
+  margin: 10vw 30vw 0 30vw;
+}
+.innerDiv {
+  /* border: 5px solid #ffff00; */
+  margin-top: 2vw;
+  text-align: center;
+}
+.input {
+  padding: 0.5vw;
+  height: 150%;
+  width: 50%;
+  text-align: center;
+  font-size: 1.1vw;
+}
